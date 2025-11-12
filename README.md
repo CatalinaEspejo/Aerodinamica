@@ -1,8 +1,8 @@
 # Aerodinamica
 Analisis Aerodinamico//
-
+<p align="center">
 <img width="253" height="248" alt="Circulación" src="https://github.com/user-attachments/assets/a9c67224-9453-4ef0-808c-b5ad7d47a3ae" />
-
+</p>
 <img width="315" height="264" alt="Figure 2025-11-11 141245" src="https://github.com/user-attachments/assets/7949ce8b-de09-4610-a583-50110fdf1c5a" />
 
 <img width="324" height="264" alt="Figure 2025-11-11 141321" src="https://github.com/user-attachments/assets/cba1673b-3543-4386-8208-240d892e792c" />
