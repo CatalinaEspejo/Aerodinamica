@@ -20,6 +20,9 @@
 <p align="center">
 <img width="324" height="264" alt="Figure 2025-11-11 141427" src="https://github.com/user-attachments/assets/dc5209ef-9c59-49ac-996a-23bc584481fd" />
 </p>
+<p align="center">
+<img width="576" height="288" alt="Figure_111" src="https://github.com/user-attachments/assets/9a926041-5b60-4604-8946-bb92506568c4" />
+</p>
 
 
 
