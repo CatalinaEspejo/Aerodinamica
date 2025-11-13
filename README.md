@@ -7,6 +7,7 @@ Representación de elcampo de velocidades inducido por un vórtice con una circu
 </p>
 
 ### **Análisis del flujo alrededor de un cilindro con circulación**
+Comportamiento del flujo potencial alrededor de un cilindro para distintos valores de circulación. A través de la simulación numérica se observaron los cambios en el campo de velocidades y en la distribución de presión.
 <p align="center">
 <img width="315" height="264" alt="Figure 2025-11-11 141245" src="https://github.com/user-attachments/assets/7949ce8b-de09-4610-a583-50110fdf1c5a" />
 </p>
