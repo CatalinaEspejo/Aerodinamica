@@ -1,4 +1,6 @@
 # Aerodinamica
+
+Representación de elcampo de velocidades inducido por un vórtice con una circulación alrededor de un cilindro. En la figura se observa cómo las líneas de flujo giran en sentido horario, coherente con el signo negativo de la circulación. Los vectores más cercanos al cilindro muestran mayor intensidad, mientras que el campo se atenúa al alejarse del centro.
 <p align="center">
 <img width="253" height="248" alt="Circulación" src="https://github.com/user-attachments/assets/a9c67224-9453-4ef0-808c-b5ad7d47a3ae" />
 </p>
