@@ -42,6 +42,10 @@ Flujo alrededor de un cuerpo elíptico generado por una fuente y un sumidero
 <img width="324" height="264" alt="Figure 2025-11-13 114917" src="https://github.com/user-attachments/assets/506cc55c-b113-4310-a3d1-19af99c030a9" />
 </p>
 
+</p>
+<img width="268" height="237" alt="Figure 2025-11-13 123500" src="https://github.com/user-attachments/assets/0c5b6060-c082-4de3-a7c8-5ef1c8b9df3b" />
+</p>
+
 
 
 
