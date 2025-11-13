@@ -26,6 +26,9 @@ Comportamiento del flujo potencial alrededor de un cilindro para distintos valor
 <p align="center">
 <img width="324" height="264" alt="Figure 2025-11-11 141427" src="https://github.com/user-attachments/assets/dc5209ef-9c59-49ac-996a-23bc584481fd" />
 </p>
+
+### **Aplicación del método de paneles de vórtices en un perfil plano**
+implementación simplificada del método de paneles de vórtices para un perfil plano, mostrando la ubicación de los vórtices y puntos de colocación sobre la cuerda del perfil.
 <p align="center">
 <img width="576" height="288" alt="Figure_111" src="https://github.com/user-attachments/assets/9a926041-5b60-4604-8946-bb92506568c4" />
 </p>
