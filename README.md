@@ -5,6 +5,7 @@ Representación de elcampo de velocidades inducido por un vórtice con una circu
 <p align="center">
 <img width="253" height="248" alt="Circulación" src="https://github.com/user-attachments/assets/a9c67224-9453-4ef0-808c-b5ad7d47a3ae" />
 </p>
+### **Análisis del flujo alrededor de un cilindro con circulación**
 <p align="center">
 <img width="315" height="264" alt="Figure 2025-11-11 141245" src="https://github.com/user-attachments/assets/7949ce8b-de09-4610-a583-50110fdf1c5a" />
 </p>
