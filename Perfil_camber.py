@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 
 # Parámetros del perfil
 # número de paneles 
-# para visua
-n = 20       
+# para visualizar la grafica del cp vs x (n = 500) 
+n = 10       
 c = 1.0           # cuerda
 e = 0.1*c        
 rho = 1.225        # densidad del aire [kg/m³]
@@ -136,3 +136,4 @@ data = np.column_stack((vx, vy, cx, cy, nx, ny, tx, ty, gamma, DCP))
 header = 'vx,vy,cx,cy,nx,ny,tx,ty,gamma,DeltaCp'
 np.savetxt('paneles_vortices.txt', data, delimiter=',', header=header, comments='')
 print("\nDatos guardados en 'paneles_vortices.txt'")
+
