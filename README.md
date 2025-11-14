@@ -28,7 +28,7 @@ Comportamiento del flujo potencial alrededor de un cilindro para distintos valor
 </p>
 
 ### **Aplicación del método de paneles de vórtices en un perfil plano**
-implementación simplificada del método de paneles de vórtices para un perfil plano, mostrando la ubicación de los vórtices y puntos de colocación sobre la cuerda del perfil.
+Implementación simplificada del método de paneles de vórtices para un perfil plano, mostrando la ubicación de los vórtices y puntos de colocación sobre la cuerda del perfil.
 <p align="center">
 <img width="576" height="288" alt="Figure_111" src="https://github.com/user-attachments/assets/9a926041-5b60-4604-8946-bb92506568c4" />
 </p>
@@ -48,8 +48,9 @@ Flujo alrededor de un cuerpo elíptico generado por una fuente y un sumidero
 </p>
 
 ### **Aplicación del método de paneles de vórtices en un perfil camber**
+Implementación simplificada del método de paneles de vórtices para un perfil con curvatura (camber), mostrando la ubicación de los vórtices ubicados a 1/4 de la longitud del panel, los puntos de colocación a 3/4 del panel, así como los vectores unitarios normal y tangente definidos sobre la cuerda del perfil.
 <p align="center">
-<img width="576" height="288" alt="vectores" src="https://github.com/user-attachments/assets/c2c2f333-085d-4539-be7e-1e23e81f6f75" />
+<img width="500" height="300" alt="vectores" src="https://github.com/user-attachments/assets/c2c2f333-085d-4539-be7e-1e23e81f6f75" />
 </p>
 
 <p align="center">
