@@ -33,8 +33,14 @@ Implementación simplificada del método de paneles de vórtices para un perfil 
 <img width="576" height="288" alt="Figure_111" src="https://github.com/user-attachments/assets/9a926041-5b60-4604-8946-bb92506568c4" />
 </p>
 
+Se calculó el coeficiente de sustentación utilizando el método de paneles para un ángulo de ataque de α = 5° con una discretización de 5 paneles. El resultado numérico obtenido fue: 
+**CL** =  0.5488762704231447
+### Solución del sistema
+Γ = [2.46376836 1.09500816 0.70393382 0.46928921 0.27375204]
+
 ### **elipsoide de Rankine**
-Flujo alrededor de un cuerpo elíptico generado por una fuente y un sumidero
+Flujo alrededor de un cuerpo elíptico generado por una fuente y un sumidero, ubicados en x=-1 y x=1 respectivamente. La interacción entre estos elementos produce un cuerpo de Rankine cuya superficie está delimitada por los puntos de estancamiento, los cuales se localizaron en x=-1.159 y x=1.159 donde la velocidad del flujo se anula.
+
 <p align="center">
 <img width="333" height="264" alt="Figure 2025-11-13 114925" src="https://github.com/user-attachments/assets/8c72118a-164d-41cc-8e7f-a116047fabbf" />
 </p>
@@ -53,6 +59,16 @@ Implementación simplificada del método de paneles de vórtices para un perfil 
 <img width="500" height="300" alt="vectores" src="https://github.com/user-attachments/assets/c2c2f333-085d-4539-be7e-1e23e81f6f75" />
 </p>
 
+Ademas, se presenta la distribución del coeficiente de presión ΔCp obtenida tanto mediante la solución analítica como mediante el método numérico implementado.
+
 <p align="center">
 <img width="450" height="250" alt="Figure_1" src="https://github.com/user-attachments/assets/0fa0585f-c5a5-4d5e-910a-697c89c9a36b" />
 </p>
+
+Se calculó el coeficiente de sustentación utilizando el método de paneles para un ángulo de ataque de α = 0° con una discretización de 500 paneles. El resultado numérico obtenido fue:
+
+- **CL (numérico)** = 1.2309  
+- **CL (analítico)** = 1.2566  
+
+El porcentaje de error obtenido fue de **2.04%**, lo que indica una muy buena aproximacion entre la solución numérica y la solucion analítica.
+
