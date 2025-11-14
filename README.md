@@ -49,7 +49,7 @@ Flujo alrededor de un cuerpo elíptico generado por una fuente y un sumidero
 
 ### **Aplicación del método de paneles de vórtices en un perfil camber**
 <p align="center">
-<img width="450" height="250" alt="vectores" src="https://github.com/user-attachments/assets/c2c2f333-085d-4539-be7e-1e23e81f6f75" />
+<img width="576" height="288" alt="vectores" src="https://github.com/user-attachments/assets/c2c2f333-085d-4539-be7e-1e23e81f6f75" />
 </p>
 
 <p align="center">
