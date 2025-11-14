@@ -34,9 +34,8 @@ Implementación simplificada del método de paneles de vórtices para un perfil 
 </p>
 
 Se calculó el coeficiente de sustentación utilizando el método de paneles para un ángulo de ataque de α = 5° con una discretización de 5 paneles. El resultado numérico obtenido fue: 
-**CL** =  0.5488762704231447
-### Solución del sistema
-Γ = [2.46376836 1.09500816 0.70393382 0.46928921 0.27375204]
+- **CL** =  0.5488762704231447
+- Solución del sistema **Γ** = [2.46376836 1.09500816 0.70393382 0.46928921 0.27375204]
 
 ### **elipsoide de Rankine**
 Flujo alrededor de un cuerpo elíptico generado por una fuente y un sumidero, ubicados en x=-1 y x=1 respectivamente. La interacción entre estos elementos produce un cuerpo de Rankine cuya superficie está delimitada por los puntos de estancamiento, los cuales se localizaron en x=-1.159 y x=1.159 donde la velocidad del flujo se anula.
