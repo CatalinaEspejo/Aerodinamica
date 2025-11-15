@@ -5,6 +5,12 @@
 <img width="613" height="264" alt="Figure 2025-11-15 164356" src="https://github.com/user-attachments/assets/0f80f7d3-4cd2-44fd-8a7a-80dca7b6b807" />
 </p>
 
+El modelo elíptico produce un downwash constante a lo largo de toda la envergadura, una propiedad exclusiva de la distribución de circulación ideal. En este caso, el valor del downwash se calcula como 
+\[
+w = -\frac{\Gamma_0}{2b}
+\]
+lo que implica que todas las secciones del ala experimentan el mismo ángulo de flujo inducido. Esta uniformidad minimiza la resistencia inducida y representa el comportamiento aerodinámico más eficiente que puede lograr un ala en condiciones sub-sónicas estacionarias.
+
 ### **Circulación (Γ)**
 Representación de elcampo de velocidades inducido por un vórtice con una circulación alrededor de un cilindro. En la figura se observa cómo las líneas de flujo giran en sentido horario, coherente con el signo negativo de la circulación. Los vectores más cercanos al cilindro muestran mayor intensidad, mientras que el campo se atenúa al alejarse del centro.
 <p align="center">
