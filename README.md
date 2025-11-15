@@ -3,9 +3,9 @@
 ### **Downwash**
 El modelo elíptico produce un downwash constante a lo largo de toda la envergadura, una propiedad exclusiva de la distribución de circulación ideal. En este caso, el valor del downwash se calcula como:
 
-\[
+$$
 w = -\frac{\Gamma_0}{2b}
-\]
+$$
 
 lo que implica que todas las secciones del ala experimentan el mismo ángulo de flujo inducido.
 
