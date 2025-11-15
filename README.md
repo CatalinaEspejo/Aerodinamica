@@ -1,7 +1,9 @@
 # Aerodinamica
-### **Downwash**
-<img width="613" height="264" alt="Figure 2025-11-15 164356" src="https://github.com/user-attachments/assets/0f80f7d3-4cd2-44fd-8a7a-80dca7b6b807" />
 
+### **Downwash**
+<p align="center">
+<img width="613" height="264" alt="Figure 2025-11-15 164356" src="https://github.com/user-attachments/assets/0f80f7d3-4cd2-44fd-8a7a-80dca7b6b807" />
+</p>
 
 ### **Circulación (Γ)**
 Representación de elcampo de velocidades inducido por un vórtice con una circulación alrededor de un cilindro. En la figura se observa cómo las líneas de flujo giran en sentido horario, coherente con el signo negativo de la circulación. Los vectores más cercanos al cilindro muestran mayor intensidad, mientras que el campo se atenúa al alejarse del centro.
