@@ -16,7 +16,7 @@ lo que implica que todas las secciones del ala experimentan el mismo ángulo de 
 Distribución de la velocidad de downwash a lo largo de la envergadura, calculada mediante el modelo simplificado de dos vórtices de punta de ala. Utilizando una circulación ($\Gamma$) de $5.0\ \text{m}^2/\text{s}$ y una envergadura ($b$) de $10.0\ \text{m}$.
 
 <p align="center">
-<img width="502" height="333" alt="Figure 2025-11-15 190114" src="https://github.com/user-attachments/assets/a2a7db68-0c76-404b-958e-9ab0bcb2dc77" />
+<img width="502" height="333" alt="Figure 2025-11-15 191017" src="https://github.com/user-attachments/assets/58a5eb32-379f-4d13-8b2e-3e75112d5ca4" />
 </p>
 
 
