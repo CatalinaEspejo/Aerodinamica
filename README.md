@@ -1,7 +1,7 @@
 # Aerodinamica
 
-# Darcy Catalina Espejo Gómez  
-# Alejandra Patiño  
+Darcy Catalina Espejo Gómez  
+Alejandra Patiño  
 
 ## Tarea 3 de Aerodinámica
 
