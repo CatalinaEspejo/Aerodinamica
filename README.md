@@ -13,7 +13,11 @@ lo que implica que todas las secciones del ala experimentan el mismo ángulo de 
 <img width="613" height="264" alt="Figure 2025-11-15 164356" src="https://github.com/user-attachments/assets/0f80f7d3-4cd2-44fd-8a7a-80dca7b6b807" />
 </p>
 
-Distribución de la velocidad de downwash a lo largo de la envergadura, calculada mediante el modelo simplificado de dos vórtices de punta de ala. Utilizando una circulación ($\Gamma$) de $5.0\ \text{m}^2/\text{s}$ y una envergadura ($b$) de $10.0\ \text{m}$.
+Distribución de la velocidad de downwash a lo largo de la envergadura
+$$
+V_\theta = -\frac{\Gamma}{2\pi r}
+$$
+calculada mediante el modelo simplificado de dos vórtices de punta de ala. Utilizando una circulación ($\Gamma$) de $5.0\ \text{m}^2/\text{s}$ y una envergadura ($b$) de $10.0\ \text{m}$.
 
 <p align="center">
 <img width="502" height="333" alt="Figure 2025-11-15 191017" src="https://github.com/user-attachments/assets/58a5eb32-379f-4d13-8b2e-3e75112d5ca4" />
