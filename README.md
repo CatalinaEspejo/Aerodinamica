@@ -1,13 +1,9 @@
 # Classic Aerodynamics Simulation Portafolio  
-### Color-For-Dummies
+## Color-For-Dummies
 
-Darcy Catalina Espejo Gómez  
-Alejandra Patiño  
+-Darcy Catalina Espejo Gómez  
+-Alejandra Patiño  
 
-### **Downwash**
- 
-
-## Tarea 3
 
 ### **Downwash**
 El modelo elíptico produce un downwash constante a lo largo de toda la envergadura, una propiedad exclusiva de la distribución de circulación ideal. En este caso, el valor del downwash se calcula como:
