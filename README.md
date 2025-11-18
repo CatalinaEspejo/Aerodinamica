@@ -30,6 +30,15 @@ calculada mediante el modelo simplificado de dos vórtices de punta de ala. Util
 <img width="502" height="333" alt="Figure 2025-11-15 191017" src="https://github.com/user-attachments/assets/58a5eb32-379f-4d13-8b2e-3e75112d5ca4" />
 </p>
 
+### **Rankine "half body"**
+Un Rankine half body se forma al superponer un flujo uniforme con una fuente puntual. La presencia de la fuente modifica las líneas de corriente hasta generar un contorno cerrado que representa un semicuerpo. El punto de estancamiento, donde la velocidad del flujo se anula, se ubica en:
+
+- **xss** = -1.1591
+
+<p align="center">
+<img width="640" height="480" alt="Figure_0" src="https://github.com/user-attachments/assets/f3fea821-cf91-453c-9316-dddb42f88c99" />
+</p>
+
 
 ### **Circulación (Γ)**
 Representación de elcampo de velocidades inducido por un vórtice con una circulación alrededor de un cilindro. En la figura se observa cómo las líneas de flujo giran en sentido horario, coherente con el signo negativo de la circulación. Los vectores más cercanos al cilindro muestran mayor intensidad, mientras que el campo se atenúa al alejarse del centro.
@@ -66,9 +75,9 @@ Implementación simplificada del método de paneles de vórtices para un perfil 
 
 Se calculó el coeficiente de sustentación utilizando el método de paneles para un ángulo de ataque de α = 5° con una discretización de 5 paneles. El resultado numérico obtenido fue: 
 - **CL** =  0.5488762704231447
-- Solución del sistema **Γ** = [2.46376836 1.09500816 0.70393382 0.46928921 0.27375204]
+- Solución del sistema **Γ** = \pi \,\Delta c\, Q_{\infty} \sin \alpha [2.46376836 1.09500816 0.70393382 0.46928921 0.27375204]
 
-### **elipsoide de Rankine**
+### **Elipsoide de Rankine**
 Flujo alrededor de un cuerpo elíptico generado por una fuente y un sumidero, ubicados en x=-1 y x=1 respectivamente. La interacción entre estos elementos produce un cuerpo de Rankine cuya superficie está delimitada por los puntos de estancamiento, los cuales se localizaron en x=-1.159 y x=1.159 donde la velocidad del flujo se anula.
 
 <p align="center">
